@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on the development and implementation of a web system 🤖<br>I like to learn with the community and contribute to it 🌍<br>I'm learning back-end with java 👽<br>I'm very interested in learning kotlin 👾
+I'm currently working as freelance developer 🤖<br>I like to learn with the community and contribute to it 🌍<br>I'm learning back-end with java 👽<br>I'm looking interested in learning kotlin 👾<br>In search of a study team 🌍
 
 
 # 💻 Tech Stack:
